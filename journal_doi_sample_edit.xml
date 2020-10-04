@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.crossref.org/schema/4.4.2 https://www.crossref.org/schemas/crossref4.4.2.xsd"
+ xmlns="http://www.crossref.org/schema/4.4.2" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+ xmlns:fr="http://www.crossref.org/fundref.xsd" version="4.4.2">
+ <head>
+  <doi_batch_id>Rangelands_2020_09_15</doi_batch_id>
+  <timestamp>20200915123306</timestamp>
+  <depositor>
+   <depositor_name>Yan Han</depositor_name>
+   <email_address>yhan@arizona.edu</email_address>
+  </depositor>
+  <registrant>The University of Arizona Libraries</registrant>
+ </head>
+ <body>
+  <journal>
+   <journal_metadata language="en">
+    <full_title>Rangelands</full_title>
+    <abbrev_title>Rangelands</abbrev_title>
+    <issn media_type="print">0190-0528</issn>
+   </journal_metadata>
+
+   <journal_issue>
+    <publication_date media_type="print">
+     <year>2008</year>
+    </publication_date>
+    <journal_volume>
+     <volume>30</volume>
+    </journal_volume>
+    <issue>2</issue>
+   </journal_issue>
+
+   <journal_article publication_type="full_text">
+    <titles>
+     <title> Frasier's Philosophy </title>
+    </titles>
+    <contributors>
+     <person_name sequence="first" contributor_role="author">
+      <given_name>Gary</given_name>
+      <surname>Frasier</surname>
+     </person_name>
+
+     <person_name sequence="additional" contributor_role="author">
+      <given_name>K</given_name>
+      <surname>Sumiyama</surname>
+     </person_name>
+
+     <organization sequence="additional" contributor_role="author">Society for Range
+      Management</organization>
+    </contributors>
+    <jats:abstract>
+     <jats:p> dc.description </jats:p>
+    </jats:abstract>
+    <publication_date media_type="print">
+     <year>2008</year>
+    </publication_date>
+    <pages>
+     <first_page>2</first_page>
+    </pages>
+    <publisher_item>
+     <identifier id_type="pii">Frasier, G. (2008). Frasier‚Äôs Philosophy. Rangelands, 30(2), 2.</identifier>
+    </publisher_item>
+    
+
+    <doi_data>
+     <doi>10.2458/azu_rangelands_v30i2_frasier</doi>
+     <resource>http://hdl.handle.net/10150/640549</resource>
+    </doi_data>
+   </journal_article>
+
+
+  </journal>
+
+ </body>
+</doi_batch>
